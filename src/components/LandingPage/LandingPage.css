@@ -1,0 +1,116 @@
+.page {
+position: relative;
+width: 1400px;
+height: 1801px;
+
+background: #FFFFFF;
+}
+
+
+.bgElement {
+    height: 431px;
+    width: 1400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* 3 */
+
+    background: linear-gradient(168.05deg, #023B96 5.04%, #022357 91.26%);
+
+}
+
+#image2 {
+    border-radius: 0px;
+    position: absolute;
+    left: -0.57%;
+    right: 1086px;
+    top: -0.6%;
+    bottom: 1723.32px;
+}
+
+#image3 {
+    border-radius: 0px;
+    position: absolute;
+    left: 32.39%;
+    right: 117px;
+    top: -0.39%;
+    bottom: 1753.54px;
+}
+
+.overlay {
+    height: 125.98607635498047px;
+    width: 1400px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 76.8%;
+
+    background: linear-gradient(180deg, rgba(3, 11, 55, 0.201267) -7.15%, rgba(0, 41, 107, 0.0001) 100%);
+}
+
+#rectangle55 {
+    height: 271px;
+    width: 1030px;
+    left: 319px;
+    top: 282px;
+    border-radius: 0px;
+    position: absolute;
+    left: 22.79%;
+    right: 3.64%;
+    top: 65.43%;
+    bottom: -28.31%;
+}
+
+.homeText {
+    color: white;
+}
+
+
+
+
+.navbar {
+    align-items: baseline;
+    align-items: justify;
+}
+
+
+.container-fluid:hover {
+    height: 38px;
+    background: #0076FF;
+    border-radius: 180px;
+    display: flex;
+    align-items: center;
+}
+
+.container-fluid:active{
+    height: 38px;
+    background: #0076FF;
+    border-radius: 180px;
+} 
+
+.specialOffer {
+    position: absolute;
+height: 33px;
+left: 0%;
+right: 340px;
+top: 700px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+letter-spacing: 0.0026em;
+
+color: #282E44;
+}
